@@ -1,0 +1,10 @@
+com/todoBackend/controller/TaskController.class
+com/todoBackend/TodoBackendApplication.class
+com/todoBackend/exception/ErrorResponse.class
+com/todoBackend/repository/TaskRepository.class
+com/todoBackend/model/Task.class
+com/todoBackend/exception/DuplicateTaskException.class
+com/todoBackend/exception/TaskNotFoundException.class
+com/todoBackend/exception/GlobalExceptionHandler.class
+com/todoBackend/service/TaskService.class
+com/todoBackend/exception/ValidationException.class

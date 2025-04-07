@@ -1,0 +1,10 @@
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/TodoBackendApplication.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/controller/TaskController.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/exception/DuplicateTaskException.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/exception/ErrorResponse.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/exception/GlobalExceptionHandler.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/exception/TaskNotFoundException.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/exception/ValidationException.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/model/Task.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/repository/TaskRepository.java
+/media/nelush/TOSHIBA_EXT/Education/Programming/Java/SpringBoot/todoBackend/src/main/java/com/todoBackend/service/TaskService.java
