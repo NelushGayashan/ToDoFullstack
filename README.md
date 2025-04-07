@@ -142,7 +142,7 @@ todo-frontend/
 │   ├── styles.css                       # Global styles
 └── Dockerfile
 ```
-file:///home/nelush/Pictures/Screenshots/Screenshot%20from%202025-04-07%2020-32-53.png
+![Screenshot from 2025-04-07 20-34-51](https://github.com/user-attachments/assets/d12e2a3f-d5cd-475d-9ba9-95612680cbc2)
 
 ### Additional Notes
 
