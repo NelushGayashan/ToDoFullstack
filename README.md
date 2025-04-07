@@ -84,8 +84,8 @@ CREATE TABLE task (
 1. **Clone the repository:**
 
    ```bash
-   git clone <repo-url>
-   cd <repo-directory>
+   git clone https://github.com/NelushGayashan/ToDoFullstack
+   cd ToDoFullstack
    ```
 2. **Build and start the containers:**
   Run the following command to build the containers and start the application using Docker Compose:
