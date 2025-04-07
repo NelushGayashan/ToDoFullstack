@@ -127,6 +127,8 @@ todoBackend/
 │   │   └── application.properties        # Database configurations
 └── Dockerfile
 ```
+![Screenshot from 2025-04-07 20-32-14](https://github.com/user-attachments/assets/7b705172-78fa-423f-8c81-b55c63075a85)
+
 
 #### Frontend (todo-frontend)
 ```bash
@@ -140,6 +142,7 @@ todo-frontend/
 │   ├── styles.css                       # Global styles
 └── Dockerfile
 ```
+file:///home/nelush/Pictures/Screenshots/Screenshot%20from%202025-04-07%2020-32-53.png
 
 ### Additional Notes
 
@@ -151,6 +154,7 @@ todo-frontend/
 
 - **Responsive UI**: The UI is designed to be responsive and adapts to various screen sizes.
 
+![Screenshot from 2025-04-07 20-33-58](https://github.com/user-attachments/assets/aedc7c05-e51c-4c31-8cae-9353400a83d7)
 
 
 
